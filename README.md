@@ -1,5 +1,5 @@
 Dev Mentoring
 
-(the Manifesto)[manifesto.md]
+[the Manifesto](manifesto.md)
 
-(the Contract)[contract.md]
+[the Contract](contract.md)
