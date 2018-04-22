@@ -1,7 +1,9 @@
-# Manifest Mentor Mentored
+# Manifeste Mentor Mentoré
 
-- Becoming a better me and not imitate someone else
-- Find solutions together not magical solutions
-- Appropriate following instead of a dogmatic following
-- A relationship based on trust instead of a hierachical relationship
+- Devenir un meilleur moi plutôt qu'imiter un modèle
 
+- Trouver des solutions ensemble plutôt que fournir des solutions miracles
+
+- Un suivi adapté plutôt qu'un suivi dogmatique
+
+- Une relation de confiance plutôt qu'une relation hiérarchique

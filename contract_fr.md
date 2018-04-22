@@ -1,28 +1,41 @@
-# Contrat Mentor Mentored
+# Contrat Mentor Mentoré
 
-## We both would like:
+## Ce que nous attendons :
 
-The mentoring session are based on volunteership, each party can stop the session whenever they decide so.
-I would like from you, honesty and kindness
+Les sessions de mentoring sont basées sur le volontariat, chaque partie a le droit d'arrêter les sessions quand l’un des deux le décide.
 
-## Now I am your mentored :
+J’aimerais que tu sois honnête et bienveillant
 
-I would like from you, the same help that you gave to your other mentored
-I would like from you, that nothing we talk about in our mentoring session moves out of our session
-I will speak to you of what is hurting me, you will know things that are pushing me to my boundaries, and I would like to keep it between us, and not goes out.
-I would like from you, to not use the information you know about me, in order to undermine me, or to favorise someone else.
-I understand that your here to help me, and that I need to be truthfull to you in order you to be able to help me.
-I would like from you, to help me grow be a better me, not a different me.
+## Maintenant que je suis ton mentoré :
 
-## Now that I am your mentor :
+J’aimerais que tu m’apportes le même niveau d’aide que tu apportes à tes autres mentorés
 
-I would like from you, to try your best to improve yourself. 
-I would like from you, to be truthfull, in order for me to be able to help you.
-I would like from you, to not await from me to solve your problem. However I will help you find your way to solve your problems. Only you can solve your problem. Solving problem for you would not help you with your problem, it would only help you being block by the same problem faster!
-I would like from you, to ask for help as soon as possible. Don't wait it to be too late otherwise we won't have time to find a suitable solution.
-I would like from you, to not wait magic, there's no magic, only humans will to grow together.
-I would like from you, to be able to trust me.
-I would like from you, to tell me your feeling about the advises I may give, if it's not suitable for you at the present moment. So that we can work together to solve the blockage step by step.
-I would like from you, to not put pressure on me about other circumstance in the company. The mentoring sessions are there to help you gain in seniority not to handle management problems.
+J’aimerais que tu ne répètes pas ce qui se passe dans les sessions de mentoring.
 
+Je vais te dire des choses qui me blesse, tu vas savoir des choses sur moi qui me poussent dans mes limites, et je voudrais que tout cela reste entre nous et que cela ne sorte pas de nos entretiens.
 
+J’aimerais que tu ne te serves pas des informations que tu connais sur moi contre moi ou pour favoriser quelqu’un autre.
+
+Je comprends que tu es la pour m’aider et que j’ai besoin d’etre franc pour que tu puisses m’apporter ton aide.
+
+J’aimerais que tu m’aides à devenir une meilleure personne et pas une personne différente.
+
+## Maintenant que je suis ton mentor :
+
+J’aimerais que tu donnes le meilleur de toi même pour progresser.
+
+J’aimerais que tu sois honnête, pour pouvoir t’aider au mieux.
+
+J’aimerais que tu n’attendes pas de moi que je résolve tes problèmes à ta place. Mon rôle est de t’aider à trouver des solutions. Seul toi peut résoudre tes problèmes. Résoudre tes problèmes à ta place ne fera que accélérer le moment où tu seras de nouveau confronté au même problème.
+
+J’aimerais que tu me demande de l’aide le plus tôt possible. N’attend pas qu’il soit trop tard et et n'hésite pas à me parler de tes problèmes sinon nous ne pourrons pas trouver une solution acceptable !
+
+J’aimerais que tu n’attendes une formule magique, il n’y a pas de magie, seulement des humains qui grandisse ensemble.
+
+J’aimerais que tu arrives à me faire confiance.
+
+J’aimerais que tu me dises si mes conseils ne correspondent pas à tes attentes, ou si tu n’es pas encore prêt à relever les défis. Ainsi nous avancerons ensemble un pas après l’autre.
+
+J’aimerais que tu ne me mettes pas la pression par rapport à d’autre situations dans l’entreprise.
+
+Le mentoring c’est pour te faire progresser, pas pour régler les problèmes de management.
